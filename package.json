@@ -1,5 +1,10 @@
 {
   "name": "gulp-generate-image-data-uri",
   "version": "1.0.0",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "datauri": "^1.0.5",
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.3"
+  }
 }
