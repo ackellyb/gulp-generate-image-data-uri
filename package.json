@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": false,
   "dependencies": {
+    "camelcase": "^4.0.0",
     "datauri": "^1.0.5",
     "gulp-util": "^3.0.7",
     "through2": "^2.0.3"
