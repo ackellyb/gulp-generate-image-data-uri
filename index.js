@@ -2,7 +2,7 @@ const through = require('through2');
 const DataURI = require('datauri');
 const path = require('path');
 const camelCase = require('camelcase');
-const PluginError = require('gulp-util').PluginError;
+const PluginError = require('plugin-error');
 
 const PLUGIN_NAME = 'gulp-generate-image-data-uri';
 
